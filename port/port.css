@@ -220,5 +220,17 @@ a:hover {
 
 }
 
+@media screen and (max-width: 900px ) {
+    .part1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .part2 {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
 
 
