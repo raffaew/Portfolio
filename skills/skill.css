@@ -52,8 +52,9 @@ a {
 }
 
 @media screen and (max-width: 900px ) {
-    .conteiner {
-        height: 100vh;
+
+    .container {
+        width: 95%;
         
     }
     h1 {
